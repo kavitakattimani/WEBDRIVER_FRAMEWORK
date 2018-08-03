@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name=" Sample test Suite">
+   <test name="Sample Smoke tests">
+   <parameter name="config" value="config.properties"></parameter>
+    <classes>
+     
+      <class name="com.test.ui.automation.ui_tests.SmokeTests" />
+    </classes>
+  </test>
+</suite>	
